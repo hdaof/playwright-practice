@@ -1,1 +1,1 @@
-# playwright-practice
+Playwright course practice based on https://github.com/bondar-artem/pw-practice-app?tab=readme-ov-file
